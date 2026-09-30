@@ -210,7 +210,7 @@ st.markdown(
 # ============================================================
 
 st.title(
-    "👟 Kalkulator czasu półmaratonu"
+    "👟 Kalkulator czasu półmaratonu 👟"
 )
 
 st.write(
@@ -638,8 +638,8 @@ st.write(
 
 st.info(
     "Przykład: "
-    "„Mam 35 lat, jestem mężczyzną "
-    "i przebiegam 5 km w 22:30.”"
+    "„Mam 35 lat, jestem kobietą "
+    "i przebiegam 5 km w 24:30.”"
 )
 
 opis_uzytkownika = st.text_area(
@@ -647,8 +647,8 @@ opis_uzytkownika = st.text_area(
     "Twoja wiadomość",
 
     placeholder=(
-        "Np. Mam 35 lat, jestem mężczyzną "
-        "i 5 km przebiegam w 22 minuty "
+        "Np. Mam 35 lat, jestem kobietą "
+        "i 5 km przebiegam w 24 minuty "
         "i 30 sekund."
     ),
 
