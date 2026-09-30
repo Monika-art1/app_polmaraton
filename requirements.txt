@@ -4,7 +4,7 @@ streamlit
 python-dotenv
 pandas
 joblib
-numpy==1.26.4
+numpy
 scikit-learn==1.4.2
 pydantic>=2.0
 pycaret==3.3.2
