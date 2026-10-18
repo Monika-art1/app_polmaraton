@@ -627,7 +627,7 @@ def show_result(wynik):
 # ============================================================
 
 st.subheader(
-    "🧠 Opowiedz o sobie"
+    "🏃‍♀️ Opowiedz o sobie"
 )
 
 st.write(
@@ -659,7 +659,7 @@ opis_uzytkownika = st.text_area(
 
 
 if st.button(
-    "🧠 Odczytaj dane i oblicz",
+    "🏃‍♀️ Odczytaj dane i oblicz",
     key="llm_button"
 ):
 
